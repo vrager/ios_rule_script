@@ -1,7 +1,0 @@
-# > HDOBOX去广告
-
-host-suffix, applovin.com, reject
-
-host-suffix, applvn.com, reject
-
-host-suffix, doubleclick.net, reject
