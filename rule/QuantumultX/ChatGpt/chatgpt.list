@@ -1,0 +1,3 @@
+HOST-SUFFIX,openai.com,ChatGpt
+# Add ai.com
+HOST-SUFFIX,ai.com,ChatGpt
